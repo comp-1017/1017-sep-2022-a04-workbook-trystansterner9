@@ -1,0 +1,44 @@
+
+body, h1, h2, h3, h4, p 
+{
+margin: 0;
+padding: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #111;
+}
+footer{
+    padding: 40px;
+    background-color: rgb(204, 196, 196);
+}
+h1{
+    padding: 48px;
+    color: #312ed3;
+    border-bottom: 1px solid #dedede;
+    font-size: 2cm;
+}
+.menu-items 
+{ font-family: Courier, sans-serif;
+    list-style-type: none;
+    width: 600px;
+    padding: 24px;
+    border: 5px solid #312ed3;
+    background-color: #f4f4f4;
+    margin-left: 24px;
+
+}
+section{
+    font-family: Arial;
+    width: 800px;
+    margin: 48px;
+  
+}
+
+h2{
+    color: #312ed3;
+    
+}
+.special-footer{
+    color: rgb(105, 102, 102);
+}
