@@ -26,6 +26,7 @@ h1{
     border: 5px solid #312ed3;
     background-color: #f4f4f4;
     margin-left: 24px;
+    border-style: dotted;
 
 }
 section{
@@ -41,4 +42,17 @@ h2{
 }
 .special-footer{
     color: rgb(105, 102, 102);
+}
+.family-style {
+    color: #312ed3;
+    font-weight: bold;
+}
+.bbq-plates{
+    color: #312ed3;
+    font-weight: bold;
+    font-style: italic;
+}
+.southern-sides{
+    color: #312ed3;
+    font-weight: bold;
 }
